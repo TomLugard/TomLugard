@@ -1,16 +1,16 @@
 # 🚵 Thomas Lugard
 
-**`Full Stack Developer`**  
+💾 **`Full Stack Developer`** 💾
 
-### I'm an all-rounded full-stack developer building my digital profile one step at a time  💾
+### I'm an all-rounded full-stack developer building my digital profile one step at a time.
 
 ---
 
 ## 💡 About Me
 
 - Studying `Computer Science` at the `University of Stellenbosch`.
-I’m always excited to tackle complex problems with unconventional thinking, learn new technologies, and contribute to projects that make a difference.
-I love using a combination of technologies to bring ideas to life.
+- I’m always excited to tackle complex problems with unconventional thinking, learn new technologies, and contribute to projects that make a difference.
+- I love using a combination of technologies to bring ideas to life.
 - If I'm not working, you'll find me outdoors traversing the world. 
 
 ---
@@ -35,20 +35,8 @@ I love using a combination of technologies to bring ideas to life.
 <br />
 
 ---
-# 
+
 # Projects
-
-1. **[Project Name](https://github.com/username/project)**: Description of the project. 
-2. **[Another Project](https://github.com/username/project)**: Description of this project, focusing on **React** and **Express** for the front and back ends.
-3. **[Data Science Analysis](https://github.com/username/project)**: An analytical project using **Python** for data processing and visualization.
-
----
-
-## 🎓 Education
-
-- **BSc Computer Science**  
-  **Stellenbosch University**  
-  📍 Stellenbosch, South Africa
 
 ---
 
