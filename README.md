@@ -2,15 +2,16 @@
 
 **`Full Stack Developer`**  
 
-### I'm an all rounded full-stack developer builing my digital profile one step at a time  💾
+### I'm an all-rounded full-stack developer building my digital profile one step at a time  💾
 
 ---
 
 ## 💡 About Me
 
-- Studying `Computer Science` at .
-- I’m always excited to tackle complex problems with out side the box thinking, learn new technologies, and contribute to projects that make a difference.
-- Love using a combination of technologies to bring ideas to life, you'll find me outdoors traversing the world. 
+- Studying `Computer Science` at the `University of Stellenbosch`.
+I’m always excited to tackle complex problems with unconventional thinking, learn new technologies, and contribute to projects that make a difference.
+I love using a combination of technologies to bring ideas to life.
+- If I'm not working, you'll find me outdoors traversing the world. 
 
 ---
 
@@ -33,6 +34,7 @@
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <br />
 
+---
 # 
 # Projects
 
