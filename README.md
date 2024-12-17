@@ -45,9 +45,6 @@
   <a href="https://linkedin.com/in/thomas-lugard-bb31421a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
   </a>
-  <a href="https://github.com/TomLugard" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="30">
-  </a>
   <a href="mailto:thomaslugard4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" height="30">
   </a>
